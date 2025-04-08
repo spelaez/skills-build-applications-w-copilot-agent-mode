@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-$v06b_03t%s#a76s9wn(a@%#kqdi(9k096dew$ghiz5k3xl@dh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["psychic-guide-jw9wq6r4wjfqxp9-8000.app.github.dev", "localhost", "127.0.0.1"]
 
 
 # Application definition
